@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=355
+
+After quite long usage of vim I&#039ve got quite useful vimrc file. Its newest version can be found at http://www.nopik.of.pl
+Right now it uses all of function keys for easy buffer browsing and compilation (it is tailored for C/C++). There is also few other nice features and keybindings.
